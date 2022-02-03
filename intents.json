@@ -1,0 +1,112 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello"
+             ],
+      "responses": [
+        "Hey :-) , This bot is for 'Cyber Awareness for Children'\n How can i help you? ",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+     {
+     "tag": "Child Awareness",
+     "patterns": [
+     "About cyber children awareness",
+     "information about cybersecurity for children",
+     "What is cybersecurity for children?",
+     "What is Cyber Child Awareness",
+     "Cyber Children Awareness",
+     "What is Cyber Children Awareness" 
+     ],
+     "responses": [
+     "Cybersecurity for children has received much attention  and \n has become a rapidly growing topic due to the increased availability of the internet to children and \n their consequent exposure to various online risks"
+     ]
+     },
+    {
+    "tag": "Awareness",
+    "patterns":  [
+    "What is Cyber Awareness",
+    "Cyber Awareness",
+    "Cyber Adwareness",
+    "Cyber Aware",
+    "Awareness"
+    ],
+    "responses": [
+    " Cyber awareness refers to the level of awareness and understanding end users  have about \n     cybersecurity best practices and the cyber threats that their networks or organizations face everyday "
+    ]
+   },
+   {
+   "tag": "Cyber Crime",
+   "patterns": [
+   "What is Cyber Crime?",
+   "Cyber Crime",
+   "About Cyber crime"
+   ],
+   "responses": [
+   "cybercrime, also called computer crime, the use of a computer as an instrument to further illegal \n ends, such as committing fraud, trafficking in child pornography and intellectual property, stealing \n identities, or violating privacy."
+   ]
+   },
+   {
+   "tag": "Cyber Crime related children",
+   "patterns": [
+   "Cyber Crimes related to children",
+   "Children cyber crime",
+   "Types of cyber crimes related to children",
+   "Types of cyber crimes"
+   ],
+   "responses": [
+   "cybercrime against children including \n child pornography, \n cyber stalking, \n cyber bullying, \n defamation, \n grooming, \n hacking, \n identity theft, \n online child trafficking, \n online extortion, \n  sexual harassment, \n violation of privacy."
+   ]
+   },
+   {
+   "tag": "Cyber Awareness for children",
+   "patterns": [
+   "saftey Tips for cyber children awareness",
+   "Tips for Cyber Awareness for children",
+   "How can can we aware a children from this crimes?",
+   "Tips",
+   "Tips and Technique for cyber awareness for children"
+   ],
+   "responses": [
+   "Educate your children about potential online dangers and how to protect themselves from becoming victims. Your children should follow these rules to improve their cybersecurity. \n Create strong passwords for each online account. \n A strong password should be a sentence that’s at least 12 characters long. \n Focus on positive sentences that you like to think about and are easy to remember.\n Never share passwords with friends or strangers. \n Write them down and keep them in a safe place away from your computer, or consider using a password manager if your child needs help remembering their passwords.\n Ignore requests or messages from strangers and unknown usernames or email addresses \n Never download an unknown or suspicious email attachment, app or software program. \n Never share personal information, such as home addresses, Social Security numbers, names or ages.\n Encourage your children to ask questions and seek help if they are uncertain about a particular website or program."
+   ]
+   },
+      {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "ok, bye nice to chat with you"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Nice to chat with you :-)",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+    "tag": "Cyber Security",
+    "patterns": [
+    "What is Cyber Security?",
+    "what is cyber security?",
+    "What is cyber security?",
+    "Cyber Security",
+    "Tell me about cyber security",
+    "About cyber security",
+    "Defination of cyber security"
+    ],
+    "responses": [
+    "Cyber security is the practice of defending \n computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. \n It's also known as information technology security or electronic information security. \n The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories."
+    ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    }
+  ]
+}
